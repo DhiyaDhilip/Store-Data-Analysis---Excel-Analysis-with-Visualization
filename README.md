@@ -28,6 +28,7 @@ This Excel dashboard provides a comprehensive overview of store performance acro
 - **Conditional Formatting** for visual emphasis
 - **Dynamic Ranges** for scalable updates
 
+
 ###  Outcome:
 This dashboard enables stakeholders to monitor store performance, identify top-selling regions and products, analyze customer behavior by gender and age, and evaluate channel effectiveness — all within a single interactive Excel file.
 
